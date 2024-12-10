@@ -1,0 +1,20 @@
+{
+  "name": "udovichenk0",
+  "version": "1.0.5",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "dependencies": {
+    "udovichenk0": "^1.0.5"
+  }
+}
