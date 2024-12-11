@@ -1,0 +1,1 @@
+export const log = (p: any) => console.log(p)

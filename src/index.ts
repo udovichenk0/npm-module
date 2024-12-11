@@ -1,5 +1,3 @@
-import { MyType } from '../types/types';
-export { MyType }
-export const sum = (p: MyType) => {
-  return p.a + p.b
-}
+export * from './func'
+import { MyType } from './types/index';
+export { MyType };
